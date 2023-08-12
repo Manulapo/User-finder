@@ -25,6 +25,13 @@ import SearchBox from "./components/search-box/search-box.component";
 //   );
 // }
 
+// const App = () =>{
+
+//   return (
+
+//   )
+// }
+
 class App extends Component {
   constructor() {
     super();
